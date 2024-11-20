@@ -34,8 +34,7 @@
 //         {
 //           method: "POST",
 //           headers: {
-//             Authorization: `Bearer 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`,
-//             "Content-Type": "application/json",
+//             Authorization:   "Content-Type": "application/json",
 //           },
 //           body: JSON.stringify({
 //             inputs: gptInput,

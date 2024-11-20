@@ -56,8 +56,5 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.44",
     "tailwindcss": "^3.4.10"
-  },
-  "homepage": "https://Vamshi-1432.github.io/NetFlix-Clone",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+  }
 }
